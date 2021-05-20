@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Pandicon)
-![](https://github-readme-stats.vercel.app/api?username=Pandicon&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Pandicon)
 
 <!--
 **Pandicon/Pandicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
