@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Pandicon)
-![](https://github-readme-stats.vercel.app/api?username=Pandicon&show_icons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandicon&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)]()
+
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=Pandicon&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)]()
+
 
 <!--
 **Pandicon/Pandicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
