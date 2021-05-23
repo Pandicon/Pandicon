@@ -1,22 +1,9 @@
-### Hi there 👋
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandicon&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)]()
+### Hi, Pandicon here
+I am passionate about computing and enjoy coding things that sometimes work and sometimes don't. I usually code in JavaScript, but I am learning Python and some Unity and C# basics.
+<br>If you want to contact me, you can do so on Discord, my tag is `mkpanda#4841`.
 
-[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=Pandicon&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true)]()
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pandicon&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true">
 
-![](https://komarev.com/ghpvc/?username=Pandicon)
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=Pandicon&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true">
 
-
-<!--
-**Pandicon/Pandicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt = "Trophies" src="https://github-profile-trophy.vercel.app/?username=Pandicon&theme=onedark">
