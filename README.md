@@ -2,7 +2,7 @@
 I am passionate about computing and enjoy coding things that sometimes work and sometimes don't. I usually code in JavaScript, but I am learning Python and some Unity and C# basics.
 <br>If you want to contact me, you can do so on Discord, my tag is `mkpanda#4841`.
 
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pandicon&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true">
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pandicon&theme=algolia&show_icons=true&count_private=true&show_all_commits=true&cache_seconds=1800">
 
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=Pandicon&title_color=58a6ff&icon_color=58a6ff&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&show_icons=true&count_private=true&show_all_commits=true">
 
