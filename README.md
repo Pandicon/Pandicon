@@ -1,6 +1,6 @@
 ### Hi, Pandicon here
 I am passionate about computing and enjoy coding things that sometimes work and sometimes don't. I usually code in JavaScript, but I am learning Python and some Unity and C# basics.
-<br>If you want to contact me, you can do so on Discord, my tag is `mkpanda#4841`. You can also join my [discord server](https://discord.gg/gCBJ5gW).
+<br>If you want to contact me, you can do so on Discord, my tag is `mkpanda#4841` (you can also click [here](https://discord.com/users/576163015120912386) to open my profile directly). You can also join my [discord server](https://discord.gg/gCBJ5gW).
 
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pandicon&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&show_all_commits=true">
 
