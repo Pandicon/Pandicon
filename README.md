@@ -6,4 +6,6 @@ I am passionate about computing and enjoy coding things that sometimes work and 
 
 <img alt = "Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=Pandicon&theme=algolia&show_icons=true&count_private=true&show_all_commits=true">
 
+<img alt = "Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pandicon&theme=algolia">
+
 <img alt = "Trophies" src="https://github-profile-trophy.vercel.app/?username=Pandicon&theme=juicyfresh">
