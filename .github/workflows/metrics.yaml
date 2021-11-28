@@ -18,6 +18,7 @@ jobs:
           plugin_languages_indepth: false
           plugin_languages_details: "bytes-size, percentage" # lines
           plugin_languages_limit: 0
+          plugin_languages_threshold: 0.1%
           plugin_languages_skipped: Pandicon-Beta-Backups, Pandicon-Backups
           plugin_habits: yes
           plugin_achievements: yes
