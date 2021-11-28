@@ -22,3 +22,8 @@ jobs:
           plugin_achievements: yes
           plugin_lines: yes
           plugin_habits_charts: yes
+          plugin_notable: yes
+          plugin_notable_filter: stars:>50
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
