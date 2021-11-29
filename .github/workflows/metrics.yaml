@@ -23,6 +23,7 @@ jobs:
           plugin_habits: yes
           plugin_achievements: yes
           plugin_lines: yes
+          plugin_lines_skipped: Pandicon-Beta-Backups, Pandicon-Backups
           plugin_habits_charts: yes
           plugin_notable: yes
           plugin_notable_filter: stars:>50
