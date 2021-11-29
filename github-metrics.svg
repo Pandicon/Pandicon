@@ -1935,37 +1935,37 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 76.38847153657198%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 76.26036608866065%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">95%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 1.958455557940426%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.9551711771769718%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 1.3596146049462212%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.4914965708018921%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.229543774295867%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.22915882343312655%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C++</span>
-                            <div class="bar" style="width: 0.05735613269418807%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.05725994497212149%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C</span>
-                            <div class="bar" style="width: 0.005723688917507333%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.00571409014274809%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.0008347046338031528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.0008333048124840966%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
