@@ -12,6 +12,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           template: classic
+          repositories_skipped: ${{ secrets.METRICS_REPOSITORIES_TO_SKIP }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: year
           plugin_languages: yes
@@ -19,11 +20,11 @@ jobs:
           plugin_languages_details: "bytes-size, percentage" # lines
           plugin_languages_limit: 0
           plugin_languages_threshold: 0.1%
-          plugin_languages_skipped: Pandicon-Beta-Backups, Pandicon-Backups
+          plugin_languages_skipped: ${{ secrets.METRICS_LANGUAGES_REPOSITORIES_TO_SKIP }}
           plugin_habits: yes
           plugin_achievements: yes
           plugin_lines: yes
-          plugin_lines_skipped: Pandicon-Beta-Backups, Pandicon-Backups
+          plugin_lines_skipped: ${{ secrets.METRICS_LINES_REPOSITORIES_TO_SKIP }}
           plugin_habits_charts: yes
           plugin_notable: yes
           plugin_notable_filter: stars:>50
