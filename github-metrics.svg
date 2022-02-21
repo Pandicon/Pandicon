@@ -662,14 +662,14 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">Python</span>
-                            <div class="bar" style="width: 63.40929808568824%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">79%</span>
+                            <span class="name">RenderScript</span>
+                            <div class="bar" style="width: 53.13868613138686%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">66%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 16.590701914311758%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">21%</span>
+                            <span class="name">Python</span>
+                            <div class="bar" style="width: 26.861313868613138%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">34%</span>
                         </div>
                     </div>
                 </section>
