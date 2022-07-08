@@ -475,9 +475,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.4023045383854" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="289.4023045383854" y="0" width="165.52081860596635" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.92312314435173" y="0" width="5.07687685564824" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.43244866947026" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="289.43244866947026" y="0" width="165.4915715446867" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.924020214157" y="0" width="5.075979785843022" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -490,7 +490,7 @@
                             </div>
                             <small>
                                 <div>71.2 kB</div>
-                                <div>62.91%</div>
+                                <div>62.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -745,17 +745,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 34.074375321459755%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 34.07052969041581%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">43%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 19.483032905517746%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 19.484664338006603%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">24%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.5975862110211356%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5976362505383033%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -3404,7 +3404,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2022, 03:56:10  with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 8 Jul 2022, 06:11:10  with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
