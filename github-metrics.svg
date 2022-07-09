@@ -469,15 +469,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 162kb of code in 170 edited files across 66 commits over last 14 days</small>
+                <small>estimation from 161kb of code in 170 edited files across 66 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.7195457196013" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="279.7195457196013" y="0" width="174.9625598163626" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.68210553596384" y="0" width="5.317894464036135" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="279.4170112555397" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="279.4170112555397" y="0" width="175.25617014964118" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.6731814051809" y="0" width="5.326818594819114" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -489,8 +489,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>65.7 kB</div>
-                                <div>60.81%</div>
+                                <div>65.5 kB</div>
+                                <div>60.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -516,7 +516,7 @@
                             </div>
                             <small>
                                 <div>41 kB</div>
-                                <div>38.04%</div>
+                                <div>38.1%</div>
                             </small>
                         </div>
                     </section>
@@ -745,17 +745,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 32.37836368578418%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 32.37716361300207%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 20.30838419530999%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 20.30763148466167%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">25%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.6172625960611826%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6172397178191522%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -3409,7 +3409,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2022, 06:11:31  with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 9 Jul 2022, 09:07:36  with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
