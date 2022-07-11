@@ -475,9 +475,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.6290845030403" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="238.6290845030403" y="0" width="214.84093879638573" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.47002329942603" y="0" width="6.529976700573962" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.10609583215196" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="239.10609583215196" y="0" width="214.37799829883755" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.4840941309895" y="0" width="6.51590586901049" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -489,8 +489,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>45.6 kB</div>
-                                <div>51.88%</div>
+                                <div>45.8 kB</div>
+                                <div>51.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -516,7 +516,7 @@
                             </div>
                             <small>
                                 <div>41 kB</div>
-                                <div>46.7%</div>
+                                <div>46.6%</div>
                             </small>
                         </div>
                     </section>
@@ -745,17 +745,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 25.95165711437827%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 27.542638305452062%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 23.405645936420918%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">29%</span>
+                                <div class="bar" style="width: 24.398759073164214%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.7114022284717525%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7415873769834791%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -2905,7 +2905,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.13m out of 93m users</span>
+                                    <span class="gh">ranked 2.13m out of 94m users</span>
                                 </div>
                                 <div class="text">Published 19 public repositories</div>
                             </div>
@@ -3030,7 +3030,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.16m out of 93m users</span>
+                                    <span class="gh">ranked 1.16m out of 94m users</span>
                                 </div>
                                 <div class="text">Followed by 8 users</div>
                             </div>
@@ -3378,7 +3378,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2022, 06:10:39  with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 11 Jul 2022, 09:08:08  with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
