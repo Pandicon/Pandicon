@@ -495,17 +495,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 66.9kb of code in 59 edited files across 28 commits over last 14 days</small>
+                <small>estimation from 63.2kb of code in 58 edited files across 28 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.28812213427597" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="388.28812213427597" y="0" width="35.12538743307974" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="423.41350956735573" y="0" width="31.637593176054718" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.0511027434104" y="0" width="2.9339890878352417" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="457.98509183124565" y="0" width="2.0149081687543227" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.8067664281067" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="380.8067664281067" y="0" width="38.78985035783995" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="419.5966167859467" y="0" width="34.938191281717636" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.53480806766436" y="0" width="3.240078074170462" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="457.77488614183477" y="0" width="2.225113858165257" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -517,8 +517,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>32.9 kB</div>
-                                <div>84.41%</div>
+                                <div>29.2 kB</div>
+                                <div>82.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>2.69 kB</div>
-                                <div>6.88%</div>
+                                <div>7.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -542,7 +542,7 @@
                             </div>
                             <small>
                                 <div>171 bytes</div>
-                                <div>0.44%</div>
+                                <div>0.48%</div>
                             </small>
                         </div>
                     </section>
@@ -556,7 +556,7 @@
                             </div>
                             <small>
                                 <div>2.98 kB</div>
-                                <div>7.64%</div>
+                                <div>8.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -568,7 +568,7 @@
                             </div>
                             <small>
                                 <div>249 bytes</div>
-                                <div>0.64%</div>
+                                <div>0.7%</div>
                             </small>
                         </div>
                     </section>
@@ -3102,7 +3102,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.18m out of 95m users</span>
+                                    <span class="gh">ranked 1.19m out of 95m users</span>
                                 </div>
                                 <div class="text">Followed by 8 users</div>
                             </div>
@@ -3450,7 +3450,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2022, 12:15:31  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 9 Aug 2022, 15:08:45  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
