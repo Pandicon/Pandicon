@@ -495,18 +495,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 158kb of code in 133 edited files across 83 commits over last 14 days</small>
+                <small>estimation from 159kb of code in 133 edited files across 83 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.81844262295084" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="232.81844262295084" y="0" width="148.58094262295083" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="381.39938524590167" y="0" width="73.52459016393443" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.92397540983615" y="0" width="3.266188524590164" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.19016393442627" y="0" width="1.7108606557377048" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.901024590164" y="0" width="0.09897540983606558" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.17495918801902" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="235.17495918801902" y="0" width="147.03973718098212" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="382.2146963690011" y="0" width="72.76193180089837" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.97662816989947" y="0" width="3.232308893462985" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.20893706336244" y="0" width="1.6931141822901352" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.9020512456526" y="0" width="0.09794875434736319" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -518,8 +518,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>49.4 kB</div>
-                                <div>50.61%</div>
+                                <div>50.4 kB</div>
+                                <div>51.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -531,7 +531,7 @@
                             </div>
                             <small>
                                 <div>15.6 kB</div>
-                                <div>15.98%</div>
+                                <div>15.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -557,7 +557,7 @@
                             </div>
                             <small>
                                 <div>31.5 kB</div>
-                                <div>32.3%</div>
+                                <div>31.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -569,7 +569,7 @@
                             </div>
                             <small>
                                 <div>693 bytes</div>
-                                <div>0.71%</div>
+                                <div>0.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -810,37 +810,37 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 23.65108845342329%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 24.305013665370456%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 15.931976398943764%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 14.16056972584865%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 7.883864609786605%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.101844338122163%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">RenderScript</span>
-                                <div class="bar" style="width: 1.3134720590279094%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.3497880406909937%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 0.35022552401167417%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.3599088542511961%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 0.183451464958496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.18852368556015034%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Procfile</span>
-                                <div class="bar" style="width: 0.01061289466702043%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.010906328916702911%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3468,7 +3468,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 06:22:09  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 09:08:11  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
