@@ -501,12 +501,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.82082808225493" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="232.82082808225493" y="0" width="148.57775182122768" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="381.39857990348264" y="0" width="73.5253434973719" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.92392340085456" y="0" width="3.2662219899794054" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.19014539083395" y="0" width="1.7108781852273076" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.9010235760613" y="0" width="0.09897642393876986" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.81844262295084" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="232.81844262295084" y="0" width="148.58094262295083" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="381.39938524590167" y="0" width="73.52459016393443" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.92397540983615" y="0" width="3.266188524590164" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.19016393442627" y="0" width="1.7108606557377048" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.901024590164" y="0" width="0.09897540983606558" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2995,7 +2995,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.18m out of 96m users</span>
+                                    <span class="gh">ranked 2.19m out of 96m users</span>
                                 </div>
                                 <div class="text">Published 19 public repositories</div>
                             </div>
@@ -3468,7 +3468,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 04:29:19  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 06:22:09  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
